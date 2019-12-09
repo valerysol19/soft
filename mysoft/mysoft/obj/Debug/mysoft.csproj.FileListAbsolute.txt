@@ -1,0 +1,15 @@
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\bin\Debug\mysoft.exe.config
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\bin\Debug\mysoft.exe
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\bin\Debug\mysoft.pdb
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.csprojAssemblyReference.cache
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.Form1.resources
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.Properties.Resources.resources
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.csproj.GenerateResource.cache
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.exe
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.pdb
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.csproj.ResolveComReference.cache
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.delete.resources
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.d_w.resources
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.Form2.resources
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.i_w1.resources
+C:\Users\Valery Solomennikov\source\repos\mysoft\mysoft\obj\Debug\mysoft.report.resources
